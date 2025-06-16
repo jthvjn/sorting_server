@@ -9,10 +9,8 @@ Two APIs are available `http://localhost:8080/sort_tasks` & `http://localhost:80
    ```$ rebar3 compile```
 
 # Run
-
-    ``` 
-       $ rebar3 shell
-    ```
+   ```$ rebar3 shell```
+    
 
 # Test
 
